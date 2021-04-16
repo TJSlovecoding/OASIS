@@ -1,5 +1,5 @@
-## OASIS  
-#A Python impelementation of the OASIS algorithm.  
+# OASIS  
+**A Python impelementation of the OASIS algorithm.**  
 Based on the Matlab implementation of Gal Chechik, et al  
 The algorithm theory of OASIS is in  
 *"Large scale online learning of image similarity through ranking"*  
